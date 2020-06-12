@@ -1,1 +1,2 @@
 # Kicad
+My footprint lib
