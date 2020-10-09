@@ -1,2 +1,2 @@
 # Kicad
-My footprint lib
+My footprint and symbol lib
